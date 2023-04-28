@@ -77,4 +77,4 @@ Created by [nweekley84@gmail.com](mailto:nweekley84@gmail.com) - feel free to co
 
 
 ## License
-MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
