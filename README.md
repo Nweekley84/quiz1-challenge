@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Nate's Javascript Quiz v1.0
 > Create a quiz based on Javascript fundamentals questions.
 > Must be multiple choise (4 options A, B, C, D).
@@ -77,4 +78,5 @@ Created by [nweekley84@gmail.com](mailto:nweekley84@gmail.com) - feel free to co
 
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+
