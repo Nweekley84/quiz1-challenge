@@ -43,7 +43,7 @@
 - Not required, but added Green/Red buttons upon 'click' to determine right vs wrong answers in real time.
 
 ## Screenshots
-![Example screenshot 1](./assets/images/ss00-gif.gif)
+![Example screenshot 1](./assets/images/00ss-gif.gif)
 
 
 ## Setup
